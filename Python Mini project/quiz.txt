@@ -1,0 +1,5 @@
+What is the national flower of Bangladesh?;Rose,Water Lily,Sunflower,Tulip;B
+What is the color of the Bangladeshi flag?;Red and White,Green and Red,Blue and White,Red and Yellow;B
+Which animal is the national symbol of Bangladesh?;Tiger,Lion,Elephant,Panda;A
+Which river flows through the capital city Dhaka?;Ganges,Yamuna,Padma,Meghna;C
+What is the traditional musical instrument of Bangladesh?;Tabla,Sitar,Flute,Pipe;A
